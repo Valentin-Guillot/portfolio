@@ -5,7 +5,7 @@ export default function ContactOptions() {
   return (
     <div className="flex w-1/2 max-w-[666px] min-w-[333px] h-[55px] bg-[#CBB083] rounded-lg p-2">
       <Link
-        href="https://github.com/mrvalbass"
+        href="https://github.com/Valentin-Guillot"
         target="_blank"
         className="h-full grow shrink basis-0"
       >
